@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: blockchain-parser
+Version: 0.1.4
+Summary: Bitcoin blockchain parser
+Home-page: https://github.com/alecalve/python-bitcoin-blockchain-parser
+Author: Antoine Le Calvez
+Author-email: antoine@p2sh.info
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Topic :: Software Development :: Libraries
