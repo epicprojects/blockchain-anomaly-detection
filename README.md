@@ -7,11 +7,11 @@
 
 ### IEEE Data Port:
 
-https://ieee-dataport.org/open-access/bitcoin-hacked-transactions-2010-2013
+Bitcoin transaction network metadata dataset: https://ieee-dataport.org/open-access/bitcoin-transaction-network-metadata-2011-2013
 
-https://ieee-dataport.org/open-access/bitcoin-transactions-data-2011-2013
+Bitcoin transactions dataset: https://ieee-dataport.org/open-access/bitcoin-transactions-data-2011-2013
 
-https://ieee-dataport.org/open-access/bitcoin-hacked-transactions-2010-2013
+Bitcoin hacks/frauds dataset: https://ieee-dataport.org/open-access/bitcoin-hacked-transactions-2010-2013
 
 
 ### Kaggle
