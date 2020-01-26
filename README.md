@@ -11,7 +11,7 @@ This repository is an implementation for a research that presents anomaly detect
 
 ## Publication
 
-URL: https://trepo.tuni.fi/handle/10024/118552
+URL: http://urn.fi/URN:NBN:fi:tuni-201912056592
 
 
 ## Data
